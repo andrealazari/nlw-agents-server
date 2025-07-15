@@ -8,6 +8,20 @@
       "when": 1752036642988,
       "tag": "0000_illegal_the_fallen",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752128290732,
+      "tag": "0001_fair_chat",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752371155823,
+      "tag": "0002_goofy_norman_osborn",
+      "breakpoints": true
     }
   ]
 }
